@@ -4,6 +4,9 @@ Ambiente de Dev:
 XAMPP versão: 5.6.30-1;
 Composer versão: 1.6.2;
 
+SETUP Antes de Utilização
+{PROJETO ROOT}: $ composer install;
+
 Modelagem Banco:
 
 Banco de Dados MySQL;
